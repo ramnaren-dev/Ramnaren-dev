@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Naren-d-luffy
 - 👀 I’m an upcoming full stack Web Developer
-- 🌱 I’m currently learning REACT JS
+- 🌱 I’m currently learning REACT JS & NEXT JS
 - 💞️ I’m looking to collaborate on any project related to front end and basic back end
 - 📫 How to reach me ramnaren.d.luffy@gmail.com
 
